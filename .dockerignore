@@ -1,0 +1,8 @@
+# build files and others
+*.exe
+*.out
+*.log
+*.tmp
+*.env
+Dockerfile
+.dockerignore
